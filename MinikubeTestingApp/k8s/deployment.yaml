@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dockerapp
-        image: rajkesarwani/dockerapp:version1  
+        image: rajkesarwani59/dockerapp:version1  
         ports:
         - containerPort: 8000
         resources:                                  
